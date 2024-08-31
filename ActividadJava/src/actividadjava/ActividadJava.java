@@ -16,7 +16,7 @@ public class ActividadJava {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("I LOVE JAVA!");
+        System.out.println("damn i pushed as my institution!");
     }
     
 }
